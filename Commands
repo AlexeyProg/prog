@@ -1,0 +1,23 @@
+!!!!BASH SCRIPT // 
+cd / path / -> sh name.sh 
+./name.sh
+AUTO SCRIPT
+Open File - > #!/bin/sh
+chmod +x name.sh
+./name.sh
+
+
+////////////////////////////
+/////////MAKE FILE /////////
+cd path / 
+->makefile  ( COMMON_DIR ) change -> /my folder 
+    / SOURCES = 
+            $(COMMON_DIR) / daemon.c 
+name change...
+
+
+daemon . h =>
+
+daemon.c create =>()
+
+  ps -e . make  ./ 
